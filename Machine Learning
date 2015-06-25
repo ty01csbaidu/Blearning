@@ -1,0 +1,85 @@
+Free Online Books
+
+Deep Learning by Yoshua Bengio, Ian Goodfellow and Aaron Courville (01/01/2015)
+Neural Networks and Deep Learning by Michael Nielsen (Dec 2014)
+Deep Learning by Microsoft Research (2013)
+Deep Learning Tutorial by LISA lab, University of Montreal (Jan 6 2015)
+Courses
+
+Machine Learning - Stanford by Andrew Ng in Coursera (2010-2014)
+Machine Learning - Caltech by Yaser Abu-Mostafa (2012-2014)
+Machine Learning - Carnegie Mellon by Tom Mitchell (Spring 2011)
+Neural Networks for Machine Learning by Geoffrey Hinton in Coursera (2012)
+Neural networks class by Hugo Larochelle from Université de Sherbrooke (2013)
+Deep Learning Course by CILVR lab @ NYU (2014)
+A.I - Berkeley by Dan Klein and Pieter Abbeel (2013)
+A.I - MIT by Patrick Henry Winston (2010)
+Vision and learning - computers and brains by Shimon Ullman, Tomaso Poggio, Ethan Meyers @ MIT (2013)
+Convolutional Neural Networks for Visual Recognition - Stanford by Fei-Fei Li, Andrej Karpathy (2015)
+Video and Lectures
+
+How To Create A Mind By Ray Kurzweil
+Deep Learning, Self-Taught Learning and Unsupervised Feature Learning By Andrew Ng
+Recent Developments in Deep Learning By Geoff Hinton
+The Unreasonable Effectiveness of Deep Learning by Yann LeCun
+Deep Learning of Representations by Yoshua bengio
+Principles of Hierarchical Temporal Memory by Jeff Hawkins
+Machine Learning Discussion Group - Deep Learning w/ Stanford AI Lab by Adam Coates
+Making Sense of the World with Deep Learning By Adam Coates
+Demystifying Unsupervised Feature Learning By Adam Coates
+Visual Perception with Deep Learning By Yann LeCun
+The Next Generation of Neural Networks By Geoffrey Hinton at GoogleTechTalks
+The wonderful and terrifying implications of computers that can learn By Jeremy Howard at TEDxBrussels
+Papers
+
+ImageNet Classification with Deep Convolutional Neural Networks
+Using Very Deep Autoencoders for Content Based Image Retrieval
+Learning Deep Architectures for AI
+CMU’s list of papers
+Tutorials
+
+UFLDL Tutorial 1
+UFLDL Tutorial 2
+Deep Learning for NLP (without Magic)
+A Deep Learning Tutorial: From Perceptrons to Deep Networks
+Deep Learning from the Bottom up
+WebSites
+
+deeplearning.net
+deeplearning.stanford.edu
+Datasets
+
+MNIST Handwritten digits
+Google House Numbers from street view
+CIFAR-10 and CIFAR-1004.
+IMAGENET
+Tiny Images 80 Million tiny images6.
+Flickr Data 100 Million Yahoo dataset
+Berkeley Segmentation Dataset 500
+Frameworks
+
+Caffe
+Torch7
+Theano
+cuda-convnet
+Ccv
+NuPIC
+DeepLearning4J
+Brain
+Miscellaneous
+
+Google Plus - Deep Learning Community
+Caffe Webinar
+100 Best Github Resources in Github for DL
+Word2Vec
+Caffe DockerFile
+TorontoDeepLEarning convnet
+Vision data sets
+Fantastic Torch Tutorial
+gfx.js
+Torch7 Cheat sheet
+Misc from MIT's 'Advanced Natural Language Processing' course
+Misc from MIT's 'Machine Learning' course
+Misc from MIT's 'Networks for Learning: Regression and Classification' course
+Misc from MIT's 'Neural Coding and Perception of Sound' course
+Implementing a Distributed Deep Learning Network over Spark
